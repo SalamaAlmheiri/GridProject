@@ -29,7 +29,6 @@ padding:0;
 .myGrid3{
   background-color: forestgreen;
   padding:20px;
-  /* margin-top: 30px; */
   min-height: 500px;
   width: calc(100%-40px);
   display: grid;

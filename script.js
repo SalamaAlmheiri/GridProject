@@ -5,7 +5,7 @@ var duckSound= new Howl({
   src:['duck-quack.mp3']
 });
 
-// Alternate boxes
+// Alternating boxes
 $('.myGrid3 div').each(function(index, element){
   element= $(element);
   index+=1;
